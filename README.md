@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+worx-lawn-mower
+# Worx Lawn Mower
 
 Based on "How to lay down the boundary wire" at https://wiki.worx.com/en/how-to-lay-down-the-boundary-wire
 
