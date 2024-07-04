@@ -1,7 +1,7 @@
 repository-name
 # Repository Name
 
-Based on "ABC" at https://www.abc.com/
+Based on "How to lay down the boundary wire" at https://wiki.worx.com/en/how-to-lay-down-the-boundary-wire
 
 ## 100 - Introduction
 
