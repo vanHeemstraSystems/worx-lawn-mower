@@ -1,6 +1,6 @@
 # 100 - Landroid Radio Link
 
-
+![Screenshot 2024-07-11 110325](https://github.com/vanHeemstraSystems/worx-lawn-mower/assets/1499433/3ae202d8-a622-42dc-b815-6b4516fbca84)
 
 - Boost Landroid’s WiFi connection and take full advantage of its advanced AI.
 - Extends WiFi link to Landroid by up to 0.62 miles - 3280.84 feet, even transmits through walls and obstacles.
